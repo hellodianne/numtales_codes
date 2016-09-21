@@ -1,7 +1,7 @@
 
 # Data Analysis with R 
 
-[Telling stories with data](numtales.com)
+[Telling stories with data](http://numtales.com)
 
 <p>These are the codes used in analysis for the posts in numtales blog.</p>
 
